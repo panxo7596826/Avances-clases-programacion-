@@ -11,12 +11,12 @@
     },
     {"codigo":3,
     "titulo":"leona",
-    "imagen":"assets/img/leona.avif",
+    "imagen":"assets/img/leona.jpg",
     "descripcion": "por agregar."
     },
     {"codigo":4,
     "titulo":"leopardo",
-    "imagen":"assets/img/leopardo.avif",
+    "imagen":"assets/img/leopardo.jpg",
     "descripcion": "por agregar."
     }
 
